@@ -1,0 +1,8 @@
+{
+  "name": "Remix Al-Oud Kora – العود كورة",
+  "description": "منصة يمنية رياضية متكاملة لإدارة ومتابعة بطولات كرة القدم ودوري أبطال العود مع مركز البث المباشر، الإحصائيات، وجداول الترتيب، وإدارة الفرق واللاعبين واستوديو تصميم أطقم اللاعبين ولوحة التحكم الإدارية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
